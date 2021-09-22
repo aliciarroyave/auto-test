@@ -8,7 +8,7 @@ def test_suma():
 
 
 def resta(a, b):
-    return a + b  #intencional sera solucionado luego
+    return a - b  
 
 def test_resta():
     assert resta(2, 3) == -1
